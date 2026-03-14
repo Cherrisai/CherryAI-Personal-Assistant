@@ -15,4 +15,7 @@ Your own AI, completely free.
 Add your free Groq API key in Space Secrets:
 - `GROQ_API_KEY` 
 
+HuggingFace Deployment:
+https://huggingface.co/spaces/cherrisai/CherryAI
+
 © 2026 CherryAI by Sai Vignesh
